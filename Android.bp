@@ -49,8 +49,8 @@ license {
 }
 
 prebuilt_font {
-    name: "DancingScript.ttf",
-    src: "DancingScript.ttf",
+    name: "DancingScript-Regular.ttf",
+    src: "DancingScript-Regular.ttf",
 }
 
 prebuilt_font {
