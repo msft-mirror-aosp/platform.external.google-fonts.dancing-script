@@ -55,5 +55,13 @@ prebuilt_font {
 
 filegroup {
     name: "GoogleFontDancingScript",
-    srcs: [ "*.ttf" ],
+    srcs: ["*.ttf"],
+}
+
+filegroup {
+    name: "DancingScript",
+    srcs: ["font_config.json"],
+    required: [
+        "DancingScript-Regular.ttf",
+    ],
 }
