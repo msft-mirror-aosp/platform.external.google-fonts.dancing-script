@@ -1,0 +1,11 @@
+[
+    {
+        "name": "cursive",
+        "fonts": [
+            {
+                "file": "DancingScript-Regular.ttf",
+                "supportedAxes": "wght"
+            }
+        ]
+    }
+]
